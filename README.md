@@ -1,165 +1,32 @@
-
-<!-- SOLVARYN LABS — GitHub profile README | Save as README.md in github.com/solvarynlabs/solvarynlabs --> <div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:07111F,45:0F766E,100:10B981&text=SOLVARYN%20LABS&fontSize=64&fontColor=FFFFFF&fontAlignY=37&desc=Engineering%20Ideas%20Into%20Intelligent%20Solutions&descSize=19&descAlignY=59&animation=fadeIn" alt="Solvaryn Labs header" />
-
-
-
-From concept to code. From data to intelligence. From ideas to impact.
-
-We design and engineer modern digital experiences at the intersection of software, artificial intelligence and connected technologies.
-
-
-
-
-</div>
-✦ Who We Are
-
-Solvaryn Labs is an Algeria-based software and AI innovation studio. We turn complex challenges into useful, well-designed and maintainable digital products — from early prototypes to full-stack applications and connected intelligent systems.
-
-Our approach combines product thinking, thoughtful UX, practical engineering and data-driven experimentation. We care about more than delivering features: we aim to create solutions that people can understand, use and trust.
-<table> <tr> <td width="50%" valign="top">
-🎯 Our Mission
-
-Make advanced technology more accessible by building intuitive, reliable and meaningful digital solutions.
-</td> <td width="50%" valign="top">
-🌍 Our Vision
-
-Create locally relevant products with the ambition, engineering quality and versatility to serve a global audience.
-</td> </tr> </table>
-⚡ At a Glance
-
-    🔭 Currently building: AI-powered applications, digital platforms and developer-focused tools.
-    🧠 Exploring: advanced AI, deep learning, cloud architecture, DevOps, cybersecurity and scalable systems.
-    💬 Talk to us about: AI & data science, full-stack development, mobile apps, IoT, UI/UX and product engineering.
-    🤝 Open to: product collaborations, software projects, research-driven prototypes and creative technical partnerships.
-    📍 Based in: Algeria · Building for a connected world.
-    💡 Our philosophy: Technology should solve real problems, not just look impressive.
-
-🧩 What We Build
-Practice	What we deliver
-🤖 AI & Data Science	Predictive models, intelligent assistants, computer vision prototypes, analytics and AI-enabled product features.
-💻 Web & SaaS	Responsive websites, admin dashboards, platforms, APIs and scalable full-stack applications.
-📱 Mobile Engineering	Android and cross-platform apps with thoughtful interfaces and connected services.
-🔌 IoT & Smart Systems	Sensor-based prototypes, ESP32 integrations, Bluetooth connectivity and real-time monitoring concepts.
-🎨 UI/UX & Product Design	User journeys, wireframes, design systems, prototypes and usable interfaces.
-⚙️ Automation & Integration	Workflow automation, service integrations and streamlined business processes.
-🚀 Selected Projects & Product Concepts
-
-    A selection of products and initiatives associated with our work. Project maturity varies: some are prototypes or works in progress, not necessarily public releases.
-
-<table> <tr> <td width="50%" valign="top">
-🧤 NeuroGlove
-
-HealthTech · IoMT · AI
-
-A smart medical glove concept combining biomedical sensors, connected monitoring and AI-driven analysis to support research into neurological health indicators.
-
-ESP32 BLE Sensors AI Mobile
-</td> <td width="50%" valign="top">
-💻 CodeLab
-
-EdTech · Developer Tools
-
-A coding and learning environment bringing programming, algorithms, notebooks and embedded-development workflows into one accessible experience.
-
-Web Python Java Arduino Education
-
-Explore CodeLab
-</td> </tr> <tr> <td width="50%" valign="top">
-🩺 MedAtlas DZ
-
-Medical Education · Digital Learning
-
-A digital learning concept focused on helping medical students access structured study resources and revision experiences.
-
-EdTech Web UX Learning
-</td> <td width="50%" valign="top">
-🏡 Aqaryoo
-
-Property Technology · Web Platforms
-
-A property-oriented digital platform concept with structured listings, location information and user-friendly discovery experiences.
-
-Full-Stack Web Dashboard UX
-</td> </tr> <tr> <td width="50%" valign="top">
-👁️ Optic DZ
-
-Digital Commerce · Product Experience
-
-A digital experience concept for optical products and services, designed around clear navigation and modern presentation.
-
-UI/UX Web Commerce
-</td> <td width="50%" valign="top">
-🧠 CardioAI
-
-AI Research · Medical Imaging
-
-An experimental machine-learning workflow for medical-image classification and model evaluation. Research prototype, not a clinical diagnostic product.
-
-Python TensorFlow Computer Vision ML
-</td> </tr> </table><div align="center">
-
-More experiments, interfaces and ideas:
-
-</div>
-🛠️ Technology Toolbox
-
-    Our stack spans product development and experimentation. Individual tools may be used at different levels of depth across projects.
-
-Languages & Core Development
-
-
-
-
-
-
-
-Web, Backend & Mobile
-
-
-
-
-
-
-
-AI, Machine Learning & Data
-
-
-
-
-
-
-Databases, Cloud & Tools
-
-
-
-
-
-
-
-
-🌱 Currently Exploring
-
-Cloud architecture · DevOps · Cybersecurity · Advanced deep learning · Production AI · Scalable software design
-🧭 How We Work
-Discover the problemDesign the experienceBuild the solutionTest and improveLaunch and evolveFeedback
-
-We value clear communication, practical prototypes, iterative development, maintainable code and user-centered design.
-📊 GitHub Activity
-<div align="center"><!-- These cards use the GitHub username 'solvarynlabs'. Third-party stat services can be temporarily unavailable. --> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=solvarynlabs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=34D399&text_color=C9D1D9&include_all_commits=true" alt="Solvaryn Labs GitHub statistics" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solvarynlabs&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&langs_count=8" alt="Most-used languages in public repositories" /><img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=solvarynlabs&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=34D399&currStreakLabel=10B981" alt="GitHub contribution streak" /><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=solvarynlabs&bg_color=0d1117&color=10b981&line=34d399&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-
-<sub>Statistics are generated by independent services from public GitHub data and may be incomplete or temporarily unavailable.</sub>
-</div>
-🤝 Let's Create Something Meaningful
-
-Have an idea, a product challenge or a collaboration in mind? Let's discuss how design, software and intelligence can bring it to life.
-<div align="center">
-
-
-
-⚡ A Little Fun Fact
-
-We don't just write code — we connect creativity, engineering and intelligent systems to make ambitious ideas tangible.
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:10B981,50:0F766E,100:07111F" alt="Decorative footer" />
-
-<sub>© Solvaryn Labs · Built with curiosity, care and code.</sub>
-</div> 
+\<h1 align="center">Hi 👋, I'm SolvarynLabs\</h1>\
+\<h3 align="center">Building Intelligent Digital Solutions | AI, Web & Mobile Development, IoT & Innovation\</h3>\
+\
+\- 🔭 I’m currently working on [Software Development & AI Innovation Studio]\(https\://codelabs.solvaryncareerdz.com)\
+\
+\- 🌱 I’m currently learning \*\*Advanced Artificial Intelligence, Machine Learning, Deep Learning, Cloud Computing, DevOps, Cybersecurity, and Scalable Software Architecture to build smarter and more innovative digital solutions.\*\*\
+\
+\- 👨‍💻 All of my projects are available at [https\://solvaryn-photo-folio.lovable.app/]\(https\://solvaryn-photo-folio.lovable.app/)\
+\
+\- 💬 Ask me about \*\*Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, Web & Mobile Applications, IoT, Cloud Solutions, UI/UX Design, and Digital Innovation. Copier\*\*\
+\
+\- 📫 How to reach me \*\*instgram:@solvarynlabs email :solvarynlabs@gmail.com\*\*\
+\
+\- 📄 Know about my experiences [Know about my experiences: Explore our expertise in Artificial Intelligence, Data Science, Full-Stack Development, Web & Mobile Applications, IoT, UI/UX Design, and innovative digital solutions through our projects at Solvaryn Labs.]\(Know about my experiences: Explore our expertise in Artificial Intelligence, Data Science, Full-Stack Development, Web & Mobile Applications, IoT, UI/UX Design, and innovative digital solutions through our projects at Solvaryn Labs.)\
+\
+\- ⚡ Fun fact \*\*we don't just write code — we turn ambitious ideas into intelligent digital experiences, powered by creativity, AI, and innovation!\*\*\
+\
+\<h3 align="left">Connect with me:\</h3>\
+\<p align="left">\
+\<a href="https\://kaggle.com/solvarynlabs" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="solvarynlabs" height="30" width="40" />\</a>\
+\<a href="https\://fb.com/@solvarynlabs" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@solvarynlabs" height="30" width="40" />\</a>\
+\<a href="https\://instagram.com/@solvarynlabs" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@solvarynlabs" height="30" width="40" />\</a>\
+\<a href="https\://discord.gg/@solvarynlabs" target="blank">\<img align="center" src="https\://raw\.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@solvarynlabs" height="30" width="40" />\</a>\
+\</p>\
+\
+\<h3 align="left">Languages and Tools:\</h3>\
+\<p align="left"> \<a href="https\://aws.amazon.com/amplify/" target="\_blank" rel="noreferrer"> \<img src="https\://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> \</a> \<a href="https\://developer.android.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> \</a> \<a href="https\://appwrite.io" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> \</a> \<a href="https\://azure.microsoft.com/en-in/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> \</a> \<a href="https\://babeljs.io/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> \</a> \<a href="https\://backbonejs.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> \</a> \<a href="https\://www\.blender.org/" target="\_blank" rel="noreferrer"> \<img src="https\://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> \</a> \<a href="https\://getbootstrap.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> \</a> \<a href="https\://www\.cprogramming.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> \</a> \<a href="https\://canvasjs.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> \</a> \<a href="https\://cassandra.apache.org/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> \</a> \<a href="https\://codeigniter.com" target="\_blank" rel="noreferrer"> \<img src="https\://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> \</a> \<a href="https\://www\.w3schools.com/cpp/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> \</a> \<a href="https\://www\.w3schools.com/cs/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> \</a> \<a href="https\://www\.w3schools.com/css/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> \</a> \<a href="https\://www\.cypress.io" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> \</a> \<a href="https\://d3js.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> \</a> \<a href="https\://dart.dev" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> \</a> \<a href="https\://www\.electronjs.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> \</a> \<a href="https\://expressjs.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> \</a> \<a href="https\://www\.figma.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> \</a> \<a href="https\://firebase.google.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> \</a> \<a href="https\://flutter.dev" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> \</a> \<a href="https\://www\.framer.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> \</a> \<a href="https\://www\.gatsbyjs.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> \</a> \<a href="https\://cloud.google.com" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> \</a> \<a href="https\://grafana.com" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> \</a> \<a href="https\://www\.gtk.org/" target="\_blank" rel="noreferrer"> \<img src="https\://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> \</a> \<a href="https\://heroku.com" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> \</a> \<a href="https\://www\.java.com" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> \</a> \<a href="https\://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> \</a> \<a href="https\://jestjs.io" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> \</a> \<a href="https\://kafka.apache.org/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> \</a> \<a href="https\://www\.elastic.co/kibana" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> \</a> \<a href="https\://kotlinlang.org" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> \</a> \<a href="https\://laravel.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> \</a> \<a href="https\://www\.linux.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> \</a> \<a href="https\://www\.mathworks.com/" target="\_blank" rel="noreferrer"> \<img src="https\://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> \</a> \<a href="https\://www\.mongodb.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> \</a> \<a href="https\://www\.mysql.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> \</a> \<a href="https\://nativescript.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> \</a> \<a href="https\://nestjs.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> \</a> \<a href="https\://nextjs.org/" target="\_blank" rel="noreferrer"> \<img src="https\://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> \</a> \<a href="https\://nodejs.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> \</a> \<a href="https\://opencv.org/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> \</a> \<a href="https\://openresty.org/" target="\_blank" rel="noreferrer"> \<img src="https\://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> \</a> \<a href="https\://www\.oracle.com/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> \</a> \<a href="https\://pandas.pydata.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> \</a> \<a href="https\://github.com/puppeteer/puppeteer" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> \</a> \<a href="https\://www\.python.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> \</a> \<a href="https\://pytorch.org/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> \</a> \<a href="https\://quasar.dev/" target="\_blank" rel="noreferrer"> \<img src="https\://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> \</a> \<a href="https\://reactjs.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> \</a> \<a href="https\://reactnative.dev/" target="\_blank" rel="noreferrer"> \<img src="https\://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> \</a> \<a href="https\://www\.rust-lang.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> \</a> \<a href="https\://www\.scala-lang.org" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> \</a> \<a href="https\://scikit-learn.org/" target="\_blank" rel="noreferrer"> \<img src="https\://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> \</a> \<a href="https\://seaborn.pydata.org/" target="\_blank" rel="noreferrer"> \<img src="https\://seaborn.pydata.org/\_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> \</a> \<a href="https\://www\.selenium.dev" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> \</a> \<a href="https\://www\.sqlite.org/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> \</a> \<a href="https\://svelte.dev" target="\_blank" rel="noreferrer"> \<img src="https\://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> \</a> \<a href="https\://www\.tensorflow\.org" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> \</a> \<a href="https\://unity.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> \</a> \<a href="https\://www\.vagrantup.com/" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> \</a> \<a href="https\://vuejs.org/" target="\_blank" rel="noreferrer"> \<img src="https\://raw\.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> \</a> \<a href="https\://zapier.com" target="\_blank" rel="noreferrer"> \<img src="https\://www\.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> \</a> \</p>\
+\
+\<h3 align="left">Support:\</h3>\
+\<p>\<a href="https\://www\.buymeacoffee.com/solvarynlabs"> \<img align="left" src="https\://cdn.buymeacoffee.com/buttons/v2/default-yellow\.png" height="50" width="210" alt="solvarynlabs" />\</a>\</p>\<br>\<br>\
+\
+je le veux attirable bcp
